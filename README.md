@@ -1,5 +1,4 @@
 !heal and !revive commands for ULX Admin Mod
-These two commands have come in veryuseful for me, so thought I'd share them :)
 
 Installation:
 1. Download
